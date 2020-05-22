@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5%;
+}
+footer {
+  text-align: center;
+  color: red;
+}
